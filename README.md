@@ -19,5 +19,13 @@ tags:
 - clustering
 - embeddings
 ---
+# Knowledge Graph Builder-MCP Server
+A Model Context Protocol (MCP) server that transforms any text or webpage into interactive knowledge graphs using AI-powered entity extraction and relationship mapping.
+
+## 🎬 Demo Video
+
+This space demonstrates the MCP server in action. You can watch a video recording of the server running below:
+
+[Watch the video](https://huggingface.co/spaces/Agents-MCP-Hackathon/KGB-mcp/resolve/main/Screen%20Recording%202025-06-05%20at%2023.29.31.mov)
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
