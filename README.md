@@ -25,6 +25,9 @@ A Model Context Protocol (MCP) server that transforms any text or webpage into i
 ## 🎬 Demo Video
 
 This space demonstrates the MCP server in action. You can watch a video recording of the server running below:
+<video controls src="https://huggingface.co/spaces/Agents-MCP-Hackathon/KGB-mcp/resolve/main/Screen%20Recording%202025-06-05%20at%2023.29.31.mov" width="600">
+  Your browser does not support the video tag.
+</video>
 
 [Watch the video](https://huggingface.co/spaces/Agents-MCP-Hackathon/KGB-mcp/resolve/main/Screen%20Recording%202025-06-05%20at%2023.29.31.mov)
 
