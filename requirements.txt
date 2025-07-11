@@ -1,8 +1,19 @@
 gradio>=5.0.0
-huggingface_hub>=0.20.0
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 networkx>=3.1
 matplotlib>=3.7.0
 numpy>=1.24.0
 Pillow>=10.0.0
+
+# Graph visualization
+pygraphviz>=1.11
+graphviz>=0.20.0
+
+# Local model support
+ollama>=0.2.0
+openai>=1.0.0
+
+# MCP integration
+# Note: MCP tools will be available in the runtime environment
+# when using Claude Code with MCP servers configured
